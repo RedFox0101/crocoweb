@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "636674867299",
+    "firebase_url": "https://crocobit-3d3b2-default-rtdb.firebaseio.com",
+    "project_id": "crocobit-3d3b2",
+    "storage_bucket": "crocobit-3d3b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636674867299:android:9e0ebf01a6a48f48827856",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.CrocoBit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636674867299-8afb0g2fs8u39d16m373vrtrm3hcnua7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEN4S81v_mUwj56OYJz5KSEKyuZUFIJz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636674867299-8afb0g2fs8u39d16m373vrtrm3hcnua7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "636674867299-d6t06njau437otpb1c8df69aj44r8de2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.CrocoBit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
